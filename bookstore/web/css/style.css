@@ -1,0 +1,23 @@
+.logintitle {
+    margin: 0 auto;
+    margin-top: 20%;
+    color: #fff;
+    padding: 14px 6em;
+    background: #f25555;
+    font-size: 26px;
+    font-weight: 400;
+    text-align: center;
+    width: 150px;
+    border: 1px solid #fff;
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -o-border-radius: 3px;
+    -ms-border-radius: 3px;
+}
+.login {
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 1.6em;
+    text-align: center;
+ }
